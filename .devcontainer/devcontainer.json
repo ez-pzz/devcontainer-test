@@ -1,0 +1,5 @@
+{
+	"name": "Test Container",
+	"image": "debian:12-slim",
+	"features": {}
+}
